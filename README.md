@@ -93,5 +93,8 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/2498b45c-7e8b-41c7-9854-3f015034c6a1)
 
+![image](https://github.com/user-attachments/assets/295e24df-e633-48f7-b791-a1fc057c6f20)
+
+
 ### RESULT:
 Thus the program run successfully based on the ARIMA model using python.
